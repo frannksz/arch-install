@@ -4,6 +4,7 @@ Esse é um script de instalação do Arch Linux.
 
 ### Antes de usar:
 
+- TOTALMENTE RECOMENDADO LER a [wiki](https://wiki.archlinux.org/title/Installation_guide)
 - Essa é uma configuração MINHA, então pode não ser boa para você.
 - LEIA o script antes de executa-lo.
 - NÃO me responsabilizo por danos.
