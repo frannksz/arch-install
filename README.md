@@ -25,6 +25,8 @@ Uso UEFI/EFI e [BTRFS](https://btrfs.readthedocs.io/en/latest/) como filesystem 
   curl https://raw.githubusercontent.com/frannks/arch-install/main/arch-install.sh |bash
   ```
 
+  ### Depois entrar no chroot e seguir o [script](https://github.com/frannksz/arch-chroot)
+
   
 
 ### Contatos:
